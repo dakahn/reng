@@ -1,0 +1,20 @@
+{
+  "name": "wetware",
+  "version": "1.0.0",
+  "description": "a biopunk roguelike written with rot.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node engine.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/dakahn/wetware.git",
+  "author": "dak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakahn/wetware/issues"
+  },
+  "homepage": "https://github.com/dakahn/wetware#readme",
+  "dependencies": {
+    "rot-js": "^2.1.1"
+  }
+}
